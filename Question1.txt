@@ -1,0 +1,7 @@
+num=int(input("enter radius"))
+def circleRadius(r):
+    PI=3.14
+    area=(PI*(num*num))
+    print(area)
+circleRadius(num)
+
